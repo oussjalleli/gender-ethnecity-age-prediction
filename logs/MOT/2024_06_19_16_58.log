@@ -1,0 +1,408 @@
+2024-06-19 16:58:54,944 - MOT - INFO - Start track and extract...... -  MainThread - 16464 
+2024-06-19 16:58:56,780 - MOT - INFO - Video_name:media\azlfodrdst.mp4 -  MainThread - 16464 
+2024-06-19 16:58:58,248 - MOT - INFO - detect of a frame: [ 464.9116  943.5696  569.37   1141.6473]  frame 0 -  MainThread - 16464 
+2024-06-19 16:58:58,266 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:58:58,267 - MOT - INFO - new Tracker: 1 -  MainThread - 16464 
+2024-06-19 16:58:58,282 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:58,298 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:58,412 - MOT - INFO - detect of a frame: [ 461.99258  942.09735  569.9885  1141.9664 ]  frame 3 -  MainThread - 16464 
+2024-06-19 16:58:58,422 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:58:59,282 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,304 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,411 - MOT - INFO - detect of a frame: [ 458.56116  939.8206   569.53204 1140.7852 ]  frame 6 -  MainThread - 16464 
+2024-06-19 16:58:59,420 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:58:59,434 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,439 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,548 - MOT - INFO - detect of a frame: [ 461.75507  942.9756   568.9042  1135.008  ]  frame 9 -  MainThread - 16464 
+2024-06-19 16:58:59,570 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:58:59,589 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,606 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,712 - MOT - INFO - detect of a frame: [ 463.90756  942.7347   569.75934 1135.4426 ]  frame 12 -  MainThread - 16464 
+2024-06-19 16:58:59,720 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:58:59,738 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,751 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,861 - MOT - INFO - detect of a frame: [ 465.8326   942.59906  570.38306 1134.4493 ]  frame 15 -  MainThread - 16464 
+2024-06-19 16:58:59,872 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:58:59,888 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:58:59,950 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,066 - MOT - INFO - detect of a frame: [ 468.04376  942.6587   570.3239  1131.3004 ]  frame 18 -  MainThread - 16464 
+2024-06-19 16:59:00,073 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:00,090 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,100 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,206 - MOT - INFO - detect of a frame: [ 467.34222  942.5964   570.6831  1128.315  ]  frame 21 -  MainThread - 16464 
+2024-06-19 16:59:00,213 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:00,228 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,235 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,343 - MOT - INFO - detect of a frame: [ 465.73242  945.3267   569.938   1126.9906 ]  frame 24 -  MainThread - 16464 
+2024-06-19 16:59:00,352 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:00,366 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,381 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,477 - MOT - INFO - detect of a frame: [ 464.5968   945.49585  569.1059  1127.7971 ]  frame 27 -  MainThread - 16464 
+2024-06-19 16:59:00,485 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:00,502 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,518 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,618 - MOT - INFO - detect of a frame: [ 461.4711  943.7705  568.8959 1131.3242]  frame 30 -  MainThread - 16464 
+2024-06-19 16:59:00,625 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:00,639 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,654 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,753 - MOT - INFO - detect of a frame: [ 461.51382  945.73096  567.7934  1128.7322 ]  frame 33 -  MainThread - 16464 
+2024-06-19 16:59:00,763 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:00,769 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,790 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,899 - MOT - INFO - detect of a frame: [ 462.73093  949.07385  567.7605  1128.0681 ]  frame 36 -  MainThread - 16464 
+2024-06-19 16:59:00,899 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:00,931 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:00,950 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,054 - MOT - INFO - detect of a frame: [ 465.44504  946.7705   571.5391  1131.2819 ]  frame 39 -  MainThread - 16464 
+2024-06-19 16:59:01,062 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:01,069 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,086 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,211 - MOT - INFO - detect of a frame: [ 481.4607  960.5698  587.7395 1132.9672]  frame 42 -  MainThread - 16464 
+2024-06-19 16:59:01,216 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:01,240 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,256 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,357 - MOT - INFO - detect of a frame: [ 486.34744  959.3791   591.5092  1135.1127 ]  frame 45 -  MainThread - 16464 
+2024-06-19 16:59:01,365 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:01,370 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,389 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,499 - MOT - INFO - detect of a frame: [ 477.61288  943.4442   585.2696  1131.8077 ]  frame 48 -  MainThread - 16464 
+2024-06-19 16:59:01,499 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:01,524 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,539 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,656 - MOT - INFO - detect of a frame: [ 463.18314  946.4787   571.30664 1127.4725 ]  frame 51 -  MainThread - 16464 
+2024-06-19 16:59:01,665 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:01,681 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,699 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,815 - MOT - INFO - detect of a frame: [ 470.2738   941.22473  577.0058  1125.4904 ]  frame 54 -  MainThread - 16464 
+2024-06-19 16:59:01,823 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:01,838 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,851 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:01,978 - MOT - INFO - detect of a frame: [ 473.9363  941.8608  579.8103 1129.0192]  frame 57 -  MainThread - 16464 
+2024-06-19 16:59:01,987 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:02,005 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,020 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,147 - MOT - INFO - detect of a frame: [ 471.5189   943.84314  575.8267  1127.9722 ]  frame 60 -  MainThread - 16464 
+2024-06-19 16:59:02,164 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:02,180 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,193 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,307 - MOT - INFO - detect of a frame: [ 470.30383  947.2484   571.8695  1125.8717 ]  frame 63 -  MainThread - 16464 
+2024-06-19 16:59:02,323 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:02,347 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,351 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,468 - MOT - INFO - detect of a frame: [ 467.06985  947.16406  570.4121  1127.3751 ]  frame 66 -  MainThread - 16464 
+2024-06-19 16:59:02,476 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:02,499 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,520 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,643 - MOT - INFO - detect of a frame: [ 465.55533  947.50964  569.7827  1127.4336 ]  frame 69 -  MainThread - 16464 
+2024-06-19 16:59:02,652 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:02,665 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,673 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,781 - MOT - INFO - detect of a frame: [ 464.47568  948.56274  568.9116  1127.2888 ]  frame 72 -  MainThread - 16464 
+2024-06-19 16:59:02,781 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:02,806 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,820 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,930 - MOT - INFO - detect of a frame: [ 461.87476  952.4144   568.43555 1128.0001 ]  frame 75 -  MainThread - 16464 
+2024-06-19 16:59:02,938 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:02,951 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:02,972 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,083 - MOT - INFO - detect of a frame: [ 459.9372   952.72375  567.5998  1128.2178 ]  frame 78 -  MainThread - 16464 
+2024-06-19 16:59:03,108 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:03,126 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,200 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,320 - MOT - INFO - detect of a frame: [ 461.00446  951.9083   568.5169  1122.2577 ]  frame 81 -  MainThread - 16464 
+2024-06-19 16:59:03,337 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:03,350 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,366 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,499 - MOT - INFO - detect of a frame: [ 466.08746  943.7777   574.18036 1133.4749 ]  frame 84 -  MainThread - 16464 
+2024-06-19 16:59:03,516 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:03,533 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,552 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,666 - MOT - INFO - detect of a frame: [ 467.051   945.8421  570.7027 1132.8156]  frame 87 -  MainThread - 16464 
+2024-06-19 16:59:03,687 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:03,706 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,723 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,832 - MOT - INFO - detect of a frame: [ 464.82593  951.35583  568.6543  1124.4369 ]  frame 90 -  MainThread - 16464 
+2024-06-19 16:59:03,832 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:03,857 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,875 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:03,980 - MOT - INFO - detect of a frame: [ 460.97873  950.8283   568.3567  1128.732  ]  frame 93 -  MainThread - 16464 
+2024-06-19 16:59:03,982 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:04,007 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,018 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,149 - MOT - INFO - detect of a frame: [ 459.81958  947.74817  566.67615 1126.4955 ]  frame 96 -  MainThread - 16464 
+2024-06-19 16:59:04,158 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:04,181 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,196 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,314 - MOT - INFO - detect of a frame: [ 456.4716   947.23145  563.8563  1121.2522 ]  frame 99 -  MainThread - 16464 
+2024-06-19 16:59:04,315 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:04,336 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,348 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,452 - MOT - INFO - detect of a frame: [ 454.18082  945.14813  561.9288  1117.4015 ]  frame 102 -  MainThread - 16464 
+2024-06-19 16:59:04,460 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:04,467 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,492 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,602 - MOT - INFO - detect of a frame: [ 452.48364  946.74817  558.116   1115.5266 ]  frame 105 -  MainThread - 16464 
+2024-06-19 16:59:04,609 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:04,623 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,639 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,750 - MOT - INFO - detect of a frame: [ 449.3227  947.0199  555.8279 1117.1752]  frame 108 -  MainThread - 16464 
+2024-06-19 16:59:04,771 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:04,792 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,810 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,916 - MOT - INFO - detect of a frame: [ 449.1622  951.1698  553.7712 1121.9303]  frame 111 -  MainThread - 16464 
+2024-06-19 16:59:04,935 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:04,955 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:04,972 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,081 - MOT - INFO - detect of a frame: [ 450.85733  953.0375   553.3843  1124.8077 ]  frame 114 -  MainThread - 16464 
+2024-06-19 16:59:05,092 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:05,119 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,134 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,263 - MOT - INFO - detect of a frame: [ 449.36496  954.0906   553.73975 1120.6709 ]  frame 117 -  MainThread - 16464 
+2024-06-19 16:59:05,283 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:05,332 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,367 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,484 - MOT - INFO - detect of a frame: [ 450.48425  957.2621   552.175   1117.8284 ]  frame 120 -  MainThread - 16464 
+2024-06-19 16:59:05,499 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:05,517 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,533 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,663 - MOT - INFO - detect of a frame: [ 449.56494  959.0121   551.5947  1113.7731 ]  frame 123 -  MainThread - 16464 
+2024-06-19 16:59:05,671 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:05,686 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,702 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,823 - MOT - INFO - detect of a frame: [ 451.24582  955.29987  555.06757 1116.4985 ]  frame 126 -  MainThread - 16464 
+2024-06-19 16:59:05,832 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:05,857 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,865 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:05,986 - MOT - INFO - detect of a frame: [ 459.69336  953.0165   565.0228  1121.8894 ]  frame 129 -  MainThread - 16464 
+2024-06-19 16:59:05,994 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:06,016 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,034 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,183 - MOT - INFO - detect of a frame: [ 458.64417  951.676    568.8869  1133.7821 ]  frame 132 -  MainThread - 16464 
+2024-06-19 16:59:06,183 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:06,199 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,233 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,349 - MOT - INFO - detect of a frame: [ 462.72366  957.4267   569.4881  1140.5731 ]  frame 135 -  MainThread - 16464 
+2024-06-19 16:59:06,365 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:06,371 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,392 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,525 - MOT - INFO - detect of a frame: [ 468.22913  961.76355  570.24774 1141.7394 ]  frame 138 -  MainThread - 16464 
+2024-06-19 16:59:06,534 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:06,550 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,566 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,699 - MOT - INFO - detect of a frame: [ 465.01062  960.8297   569.5025  1138.7639 ]  frame 141 -  MainThread - 16464 
+2024-06-19 16:59:06,699 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:06,718 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,744 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,898 - MOT - INFO - detect of a frame: [ 461.68054  960.6784   569.6366  1138.4105 ]  frame 144 -  MainThread - 16464 
+2024-06-19 16:59:06,898 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:06,925 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:06,943 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,051 - MOT - INFO - detect of a frame: [ 465.88913  959.8239   571.25806 1135.8625 ]  frame 147 -  MainThread - 16464 
+2024-06-19 16:59:07,072 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:07,109 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,134 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,247 - MOT - INFO - detect of a frame: [ 466.06955  959.7315   572.1429  1135.1184 ]  frame 150 -  MainThread - 16464 
+2024-06-19 16:59:07,255 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:07,273 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,290 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,416 - MOT - INFO - detect of a frame: [ 460.82227  961.05975  567.3023  1139.1228 ]  frame 153 -  MainThread - 16464 
+2024-06-19 16:59:07,436 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:07,452 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,467 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,581 - MOT - INFO - detect of a frame: [ 459.3387  965.4624  561.1749 1138.8738]  frame 156 -  MainThread - 16464 
+2024-06-19 16:59:07,598 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:07,620 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,636 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,754 - MOT - INFO - detect of a frame: [ 456.7128   984.11755  559.2445  1151.3256 ]  frame 159 -  MainThread - 16464 
+2024-06-19 16:59:07,762 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:07,782 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,801 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,927 - MOT - INFO - detect of a frame: [ 455.6943   996.57886  563.18335 1154.3253 ]  frame 162 -  MainThread - 16464 
+2024-06-19 16:59:07,937 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:07,957 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:07,969 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,128 - MOT - INFO - detect of a frame: [ 456.59512  996.64764  564.0768  1153.8562 ]  frame 165 -  MainThread - 16464 
+2024-06-19 16:59:08,137 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:08,157 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,170 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,272 - MOT - INFO - detect of a frame: [ 457.6046   989.3033   564.19696 1152.786  ]  frame 168 -  MainThread - 16464 
+2024-06-19 16:59:08,279 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:08,286 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,307 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,416 - MOT - INFO - detect of a frame: [ 460.68753  985.94836  567.5458  1155.6659 ]  frame 171 -  MainThread - 16464 
+2024-06-19 16:59:08,416 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:08,434 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,457 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,574 - MOT - INFO - detect of a frame: [ 460.8963  982.4     562.2905 1156.7993]  frame 174 -  MainThread - 16464 
+2024-06-19 16:59:08,582 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:08,596 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,602 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,723 - MOT - INFO - detect of a frame: [ 454.78992  978.86505  560.54736 1149.7125 ]  frame 177 -  MainThread - 16464 
+2024-06-19 16:59:08,735 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:08,749 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,766 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,894 - MOT - INFO - detect of a frame: [ 453.89575  968.00085  558.64636 1139.0555 ]  frame 180 -  MainThread - 16464 
+2024-06-19 16:59:08,902 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:08,922 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:08,936 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,055 - MOT - INFO - detect of a frame: [ 452.23822  961.3907   560.0788  1139.4314 ]  frame 183 -  MainThread - 16464 
+2024-06-19 16:59:09,071 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:09,088 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,106 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,212 - MOT - INFO - detect of a frame: [ 451.86237  956.5725   558.7951  1138.0674 ]  frame 186 -  MainThread - 16464 
+2024-06-19 16:59:09,223 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:09,249 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,267 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,400 - MOT - INFO - detect of a frame: [ 449.64322  948.8251   558.02075 1132.6079 ]  frame 189 -  MainThread - 16464 
+2024-06-19 16:59:09,400 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:09,419 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,448 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,550 - MOT - INFO - detect of a frame: [ 447.19308  942.8552   553.7793  1124.6819 ]  frame 192 -  MainThread - 16464 
+2024-06-19 16:59:09,550 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:09,573 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,590 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,699 - MOT - INFO - detect of a frame: [ 449.35944  936.7273   556.1709  1118.4454 ]  frame 195 -  MainThread - 16464 
+2024-06-19 16:59:09,717 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:09,746 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,767 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,890 - MOT - INFO - detect of a frame: [ 449.06772  930.602    557.68964 1117.4891 ]  frame 198 -  MainThread - 16464 
+2024-06-19 16:59:09,900 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:09,919 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:09,934 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,069 - MOT - INFO - detect of a frame: [ 448.48682  928.9712   557.0459  1111.2529 ]  frame 201 -  MainThread - 16464 
+2024-06-19 16:59:10,078 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:10,098 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,107 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,216 - MOT - INFO - detect of a frame: [ 448.70712  928.25006  557.5725  1111.7689 ]  frame 204 -  MainThread - 16464 
+2024-06-19 16:59:10,216 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:10,233 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,258 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,361 - MOT - INFO - detect of a frame: [ 451.47174  928.8351   561.3952  1109.8141 ]  frame 207 -  MainThread - 16464 
+2024-06-19 16:59:10,367 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:10,389 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,401 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,533 - MOT - INFO - detect of a frame: [ 454.63275  927.99243  563.6803  1111.3412 ]  frame 210 -  MainThread - 16464 
+2024-06-19 16:59:10,542 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:10,561 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,586 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,722 - MOT - INFO - detect of a frame: [ 461.80026  932.2464   569.4576  1116.1588 ]  frame 213 -  MainThread - 16464 
+2024-06-19 16:59:10,737 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:10,760 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,777 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,884 - MOT - INFO - detect of a frame: [ 470.0304   941.53973  578.284   1122.387  ]  frame 216 -  MainThread - 16464 
+2024-06-19 16:59:10,887 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:10,909 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:10,925 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,048 - MOT - INFO - detect of a frame: [ 483.77972  952.4624   597.4064  1128.398  ]  frame 219 -  MainThread - 16464 
+2024-06-19 16:59:11,049 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:11,072 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,100 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,217 - MOT - INFO - detect of a frame: [ 489.31247  964.4329   594.8316  1130.4382 ]  frame 222 -  MainThread - 16464 
+2024-06-19 16:59:11,234 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:11,250 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,276 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,411 - MOT - INFO - detect of a frame: [ 481.59772  958.84143  586.42395 1124.5314 ]  frame 225 -  MainThread - 16464 
+2024-06-19 16:59:11,423 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:11,438 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,469 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,622 - MOT - INFO - detect of a frame: [ 471.4992   960.60144  579.07043 1129.9222 ]  frame 228 -  MainThread - 16464 
+2024-06-19 16:59:11,629 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:11,650 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,666 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,801 - MOT - INFO - detect of a frame: [ 471.3601   957.78406  581.154   1131.9321 ]  frame 231 -  MainThread - 16464 
+2024-06-19 16:59:11,801 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:11,826 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,843 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,955 - MOT - INFO - detect of a frame: [ 468.18954  954.6579   577.8552  1139.3809 ]  frame 234 -  MainThread - 16464 
+2024-06-19 16:59:11,962 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:11,976 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:11,984 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,099 - MOT - INFO - detect of a frame: [ 460.62433  956.55585  569.48846 1137.1602 ]  frame 237 -  MainThread - 16464 
+2024-06-19 16:59:12,099 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:12,126 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,150 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,324 - MOT - INFO - detect of a frame: [ 460.86902  954.1932   565.6291  1134.8164 ]  frame 240 -  MainThread - 16464 
+2024-06-19 16:59:12,336 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:12,363 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,380 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,516 - MOT - INFO - detect of a frame: [ 459.13293  950.3521   563.3245  1134.0713 ]  frame 243 -  MainThread - 16464 
+2024-06-19 16:59:12,532 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:12,546 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,554 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,660 - MOT - INFO - detect of a frame: [ 457.03943  946.0174   561.1295  1136.426  ]  frame 246 -  MainThread - 16464 
+2024-06-19 16:59:12,666 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:12,688 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,704 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,814 - MOT - INFO - detect of a frame: [ 456.91382  947.5951   562.527   1130.6514 ]  frame 249 -  MainThread - 16464 
+2024-06-19 16:59:12,817 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:12,848 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,868 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:12,987 - MOT - INFO - detect of a frame: [ 458.99643  950.41565  563.73505 1137.0156 ]  frame 252 -  MainThread - 16464 
+2024-06-19 16:59:12,999 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:13,016 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,033 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,161 - MOT - INFO - detect of a frame: [ 460.41406  949.4983   564.8735  1133.4379 ]  frame 255 -  MainThread - 16464 
+2024-06-19 16:59:13,170 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:13,186 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,202 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,307 - MOT - INFO - detect of a frame: [ 460.96027  943.50336  568.09393 1133.8036 ]  frame 258 -  MainThread - 16464 
+2024-06-19 16:59:13,315 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:13,335 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,350 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,456 - MOT - INFO - detect of a frame: [ 460.65     944.00226  568.03973 1130.2782 ]  frame 261 -  MainThread - 16464 
+2024-06-19 16:59:13,465 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:13,485 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,501 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,633 - MOT - INFO - detect of a frame: [ 459.3091   950.4829   568.77344 1134.7255 ]  frame 264 -  MainThread - 16464 
+2024-06-19 16:59:13,659 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:13,684 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,700 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,850 - MOT - INFO - detect of a frame: [ 465.0527   947.1102   574.40674 1131.6898 ]  frame 267 -  MainThread - 16464 
+2024-06-19 16:59:13,850 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:13,886 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:13,903 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,051 - MOT - INFO - detect of a frame: [ 467.7295  946.3841  576.0634 1129.9712]  frame 270 -  MainThread - 16464 
+2024-06-19 16:59:14,067 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:14,084 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,100 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,254 - MOT - INFO - detect of a frame: [ 468.3967  941.3778  573.3987 1130.4387]  frame 273 -  MainThread - 16464 
+2024-06-19 16:59:14,254 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:14,285 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,301 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,417 - MOT - INFO - detect of a frame: [ 469.68433  938.7559   573.7642  1124.2366 ]  frame 276 -  MainThread - 16464 
+2024-06-19 16:59:14,444 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:14,469 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,484 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,616 - MOT - INFO - detect of a frame: [ 467.88803  938.9959   575.85114 1128.3865 ]  frame 279 -  MainThread - 16464 
+2024-06-19 16:59:14,616 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:14,635 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,670 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,783 - MOT - INFO - detect of a frame: [ 457.40863  938.22437  569.4027  1132.7444 ]  frame 282 -  MainThread - 16464 
+2024-06-19 16:59:14,804 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:14,825 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,850 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:14,975 - MOT - INFO - detect of a frame: [ 454.55533  937.67633  563.18225 1121.9784 ]  frame 285 -  MainThread - 16464 
+2024-06-19 16:59:14,984 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:15,000 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,022 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,150 - MOT - INFO - detect of a frame: [ 450.6378  940.1534  555.6011 1115.1888]  frame 288 -  MainThread - 16464 
+2024-06-19 16:59:15,154 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:15,181 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,203 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,337 - MOT - INFO - detect of a frame: [ 452.3682   940.09827  554.33435 1116.2032 ]  frame 291 -  MainThread - 16464 
+2024-06-19 16:59:15,351 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:15,367 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,386 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,501 - MOT - INFO - detect of a frame: [ 454.9557   941.1544   558.74084 1122.4858 ]  frame 294 -  MainThread - 16464 
+2024-06-19 16:59:15,501 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:15,530 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,534 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,652 - MOT - INFO - detect of a frame: [ 453.20087  941.653    558.43866 1121.6171 ]  frame 297 -  MainThread - 16464 
+2024-06-19 16:59:15,663 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:15,701 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,734 - MOT - INFO - Skipping tracker update, no faces detected. -  MainThread - 16464 
+2024-06-19 16:59:15,737 - MOT - WARNING - ret false -  MainThread - 16464 
+2024-06-19 16:59:15,777 - MOT - INFO - Video_name:media\azlfodrdst_track_out.avi -  MainThread - 16464 
+2024-06-19 16:59:15,953 - MOT - INFO - detect of a frame: [ 419.32098  850.45404  511.787   1022.4283 ]  frame 0 -  MainThread - 16464 
+2024-06-19 16:59:15,961 - MOT - INFO - Updating tracker with faces: (1, 4) -  MainThread - 16464 
+2024-06-19 16:59:15,963 - MOT - WARNING - ret false -  MainThread - 16464 

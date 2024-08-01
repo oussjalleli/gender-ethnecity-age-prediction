@@ -1,0 +1,4 @@
+2024-06-20 17:15:45,630 - MOT - INFO - Start track and extract...... -  MainThread - 5228 
+2024-06-20 17:15:47,709 - MOT - INFO - Video_name:media\azlfodrdst.mp4 -  MainThread - 5228 
+2024-06-20 17:15:50,359 - MOT - INFO - detect of a frame: [ 464.9116  943.5696  569.37   1141.6473]  frame 0 -  MainThread - 5228 
+2024-06-20 17:15:50,370 - MOT - INFO - new Tracker: 1 -  MainThread - 5228 

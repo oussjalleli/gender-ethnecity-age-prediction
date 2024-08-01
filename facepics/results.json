@@ -1,0 +1,37 @@
+[
+    {
+        "video": "media\\0017_fake.mp4.mp4",
+        "captured_frame": "C:\\Users\\oussa\\Documents\\GitHub\\age-ethnecity-gender-detection\\facepics\\0017_fake\\frame_0.jpg",
+        "age": "Error",
+        "gender": "Error",
+        "race": "Error"
+    },
+    {
+        "video": "media\\aajsqyyjni.mp4",
+        "captured_frame": "C:\\Users\\oussa\\Documents\\GitHub\\age-ethnecity-gender-detection\\facepics\\aajsqyyjni\\frame_0.jpg",
+        "age": "Error",
+        "gender": "Error",
+        "race": "Error"
+    },
+    {
+        "video": "media\\azlfodrdst.mp4",
+        "captured_frame": "C:\\Users\\oussa\\Documents\\GitHub\\age-ethnecity-gender-detection\\facepics\\azlfodrdst\\frame_0.jpg",
+        "age": "Error",
+        "gender": "Error",
+        "race": "Error"
+    },
+    {
+        "video": "media\\azlfodrdst_track_out.avi",
+        "captured_frame": "C:\\Users\\oussa\\Documents\\GitHub\\age-ethnecity-gender-detection\\facepics\\azlfodrdst_track_out\\frame_0.jpg",
+        "age": "Error",
+        "gender": "Error",
+        "race": "Error"
+    },
+    {
+        "video": "media\\sample_4.mp4",
+        "captured_frame": "C:\\Users\\oussa\\Documents\\GitHub\\age-ethnecity-gender-detection\\facepics\\sample_4\\frame_0.jpg",
+        "age": "Error",
+        "gender": "Error",
+        "race": "Error"
+    }
+]

@@ -1,0 +1,2 @@
+2024-07-10 18:31:33,307 - MOT - INFO - Video_name:media\0017_fake.mp4.mp4 -  MainThread - 17772 
+2024-07-10 18:31:35,833 - MOT - INFO - cropped_face shape: (259, 254, 3), type: <class 'numpy.ndarray'> -  MainThread - 17772 

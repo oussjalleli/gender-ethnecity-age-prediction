@@ -1,0 +1,10 @@
+2024-07-31 17:04:00,089 - MOT - INFO - Processing video: media\0017_fake.mp4.mp4 -  MainThread - 21016 
+2024-07-31 17:04:02,139 - MOT - INFO - Saved frame to facepics\0017_fake.mp4.jpg -  MainThread - 21016 
+2024-07-31 17:04:02,139 - MOT - INFO - Processing video: media\aajsqyyjni.mp4 -  MainThread - 21016 
+2024-07-31 17:04:02,364 - MOT - INFO - Saved frame to facepics\aajsqyyjni.jpg -  MainThread - 21016 
+2024-07-31 17:04:02,380 - MOT - INFO - Processing video: media\azlfodrdst.mp4 -  MainThread - 21016 
+2024-07-31 17:04:02,609 - MOT - INFO - Saved frame to facepics\azlfodrdst.jpg -  MainThread - 21016 
+2024-07-31 17:04:02,621 - MOT - INFO - Processing video: media\azlfodrdst_track_out.avi -  MainThread - 21016 
+2024-07-31 17:04:02,774 - MOT - INFO - Saved frame to facepics\azlfodrdst_track_out.jpg -  MainThread - 21016 
+2024-07-31 17:04:02,774 - MOT - INFO - Processing video: media\sample_4.mp4 -  MainThread - 21016 
+2024-07-31 17:04:02,918 - MOT - INFO - Saved frame to facepics\sample_4.jpg -  MainThread - 21016 
